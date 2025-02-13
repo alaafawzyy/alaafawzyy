@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm A'laa Fawzy</h1>
+<h1 align="center"> I'm A'laa Fawzy</h1>
 <h3 align="center">A passionate Android Developer from Egypt</h3>
 
 - 🌱 I’m currently learning *Koin, KMP*
