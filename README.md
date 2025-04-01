@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/alaa-fawzy-37668a28b/](https://www.linkedin.com/in/alaa-fawzy-37668a28b/)
 
-- 💬 Ask me about *Jetpack compose*
+- 💬 Ask me about Android Development
 
 - 📫 How to reach me *alaaffawzy@gmail.com*
 
