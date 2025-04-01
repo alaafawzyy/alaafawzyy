@@ -1,9 +1,7 @@
 <h1 align="center"> I'm A'laa Fawzy</h1>
 <h3 align="center">A passionate Android Developer from Egypt</h3>
 
-- 🌱 I’m currently learning *Koin, KMP*
 
-- 🤝 I’m looking for help with *Android developers*
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/alaa-fawzy-37668a28b/](https://www.linkedin.com/in/alaa-fawzy-37668a28b/)
 
@@ -15,7 +13,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/drive/folders/1Lgk3zcA2Ugad6F5Utmbvlxbe5CXkePa8](https://drive.google.com/drive/folders/1Lgk3zcA2Ugad6F5Utmbvlxbe5CXkePa8)
 
-- ⚡ Fun fact *cooperated person*
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
